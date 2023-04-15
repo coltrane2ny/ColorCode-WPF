@@ -6,6 +6,14 @@
     <Nullable>enable</Nullable>
     <RootNamespace>ColorCode</RootNamespace>
 	<UseWPF>true</UseWPF>
+	<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+	<Title>$(AssemblyName)</Title>
+	<Authors>coltrane2ny</Authors>
+	<Description>Contains the RichTextBoxFormatter, for rendering the Colorized Code to a RichTextBox.</Description>
+	<PackageProjectUrl>https://github.com/coltrane2ny/ColorCode-WPF</PackageProjectUrl>
+	<RepositoryUrl>https://github.com/coltrane2ny/ColorCode-WPF.git</RepositoryUrl>
+	<RepositoryType>git</RepositoryType>
+	<PackageTags>ColorCode;Syntax Highlighting;SyntaxHighlighting;WPF;RichTextBox</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
