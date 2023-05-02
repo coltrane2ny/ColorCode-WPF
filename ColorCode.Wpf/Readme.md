@@ -1,0 +1,1 @@
+﻿Contains the RichTextBoxFormatter, for rendering the Colorized Code to a RichTextBox.
