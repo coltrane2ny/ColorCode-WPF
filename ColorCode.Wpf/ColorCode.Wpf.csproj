@@ -13,7 +13,7 @@
 	<PackageProjectUrl>https://github.com/coltrane2ny/ColorCode-WPF</PackageProjectUrl>
 	<RepositoryUrl>https://github.com/coltrane2ny/ColorCode-WPF.git</RepositoryUrl>
 	<RepositoryType>git</RepositoryType>
-	<PackageTags>ColorCode;Syntax Highlighting;SyntaxHighlighting;WPF;RichTextBox</PackageTags>
+	<PackageTags>ColorCode;Syntax Highlighting;SyntaxHighlighting;Formatting;WPF;RichTextBox</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
